@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of an end-to-end data pipeline using Azure services to process and analyze the AdventureWorks Sales dataset. The architecture includes data ingestion, transformation, storage, and visualization using tools such as Azure Data Factory, Azure Data Lake Gen2, Databricks, Azure Synapse Analytics, and Power BI.
 
+![Screenshot 2024-12-04 135901](https://github.com/user-attachments/assets/9b52b80f-6083-4cf2-9f38-c1849b805528)
+
 Architecture
 The pipeline is structured as follows:
 
